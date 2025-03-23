@@ -27,7 +27,7 @@ const Navbar = () => {
         <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
           {/* Logo or Title */}
           <Typography variant="h6" component={Link} to="/" sx={styles.logo}>
-            MyApp
+            User Management
           </Typography>
 
           {/* Navigation Links */}
